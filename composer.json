@@ -1,0 +1,7 @@
+{
+    "name": "highgreat/php-vips-example",
+    "type": "project",
+    "require": {
+        "jcupitt/vips": "^1.0"
+    }
+}
